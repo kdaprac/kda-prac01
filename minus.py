@@ -1,3 +1,3 @@
-def minus(a: float, b: float) -> float:
+def minus(a, b):
     """a에서 b를 뺀 값을 반환한다."""
     return a - b
